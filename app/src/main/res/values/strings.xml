@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HT_5.2.2</string>
+    <string name="loginHint">Login</string>
+    <string name="passwordHint">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="registrationButton">Registration</string>
+    <string name="easterEgg">Have a nice day)</string>
+    <string name="dataLocationText">Сохранить логин во внешнем хранилище</string>
+</resources>
